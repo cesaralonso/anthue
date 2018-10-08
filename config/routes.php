@@ -3,6 +3,7 @@
 
 $app->get('/', '\MiWeb\Controllers\HomeController:index');
 $app->get('/about', '\MiWeb\Controllers\AboutController:index');
+$app->get('/discography', '\MiWeb\Controllers\DiscographyController:index');
 $app->get('/contact', '\MiWeb\Controllers\ContactController:index');
 $app->get('/facilities', '\MiWeb\Controllers\FacilitiesController:index');
 $app->get('/gallery', '\MiWeb\Controllers\GalleryController:index');

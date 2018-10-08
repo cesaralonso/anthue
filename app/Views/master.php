@@ -36,7 +36,7 @@
     <header id="header" class="navbar navbar-inverse navbar-fixed-top" role="banner">
       <div class="container">
         <div class="navbar-header">
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse" aria-controls="bs-navbar-collapse" aria-expanded="false">
           <span class="sr-only">Toggle navigation</span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -45,28 +45,28 @@
           <a href="index.php" class="navbar-brand">Antonio  <span class="lighter">Huerta Navarro</span></a>
         </div>
         <!-- Start Navigation -->
-        <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
+        <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right " role="navigation">
         <ul class="nav navbar-nav">
-          <li>
-            <a href="index.php">HOME</a>
+          <li class="nav-item">
+            <a class="nav-link" href="index.php">HOME</a>
           </li>
-          <li>
-            <a href="">GALLERY</a>
+          <li class="nav-item">
+            <a class="nav-link" href="gallery">GALLERY</a>
           </li>
-          <li>
-            <a href="">SERVICES</a>
+          <li class="nav-item">
+            <a class="nav-link" href="">SERVICES</a>
           </li>
-          <li>
-            <a href="">DISCOGRAPHY</a>
+          <li class="nav-item">
+            <a class="nav-link" href="discography">DISCOGRAPHY</a>
           </li>
-          <li>
-            <a href="">ABOUT ME</a>
+          <li class="nav-item">
+            <a class="nav-link" href="about">ABOUT ME</a>
           </li>
-          <li>
-            <a href="">CONTACT</a>
+          <li class="nav-item">
+            <a class="nav-link" href="">CONTACT</a>
           </li>
-          <li>
-            <a href="#hero">INGLES</a>
+          <li class="nav-item">
+            <a class="nav-link" href="#hero">INGLES</a>
           </li>
         </ul>
         </nav>
@@ -137,6 +137,7 @@
       ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/popper.min.js" charset="utf-8"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>
     <script src="assets/js/jquery.scrollTo.min.js"></script>

@@ -504,7 +504,8 @@ label {
 #gallery .description {
 	background-color:#fff;
 	display:block;
-	padding:20px 15px;
+	padding: 0px 15px;
+	padding-top:10px;
 	color:#333;
 	text-transform:uppercase;
 	clear:both;
@@ -1310,6 +1311,6 @@ img.mfp-img {
     font-size: 28px; /* Increase font size */
 }
 
-#myBtn:hover {    
+#myBtn:hover {
 	color: #05668D;
 }
