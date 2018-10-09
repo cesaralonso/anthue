@@ -33,42 +33,37 @@
       ================================================== -->
     <!-- Start Header
       ================================================== -->
-    <header id="header" class="navbar navbar-inverse navbar-fixed-top" role="banner">
+    <header id="header" class="navbar navbar-expand-lg navbar-light bg-light navbar-inverse" role="banner">
       <div class="container">
-        <div class="navbar-header">
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse" aria-controls="bs-navbar-collapse" aria-expanded="false">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
+          <a class="navbar-brand" href="index.php" class="navbar-brand">Antonio  <span class="lighter">Huerta Navarro</span></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar-collapse" aria-controls="bs-navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon d-block"></span>
           </button>
-          <a href="index.php" class="navbar-brand">Antonio  <span class="lighter">Huerta Navarro</span></a>
-        </div>
         <!-- Start Navigation -->
-        <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right " role="navigation">
-        <ul class="nav navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link" href="index.php">HOME</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="gallery">GALLERY</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="">SERVICES</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="discography">DISCOGRAPHY</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about">ABOUT ME</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="">CONTACT</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#hero">INGLES</a>
-          </li>
-        </ul>
+        <nav class="collapse navbar-collapse" id="bs-navbar-collapse">
+          <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="index.php">HOME</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="gallery">GALLERY</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="">SERVICES</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="discography">DISCOGRAPHY</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about">ABOUT ME</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="">CONTACT</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link pl-0" href="#hero">INGLES</a>
+              </li>
+            </ul>
         </nav>
       </div>
     </header>

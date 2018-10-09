@@ -36,7 +36,7 @@
 									<li class="mb-1">Willow's reggaette. </li>
 								</ol>
 								<p class="text-center">
-									<button type="button" class="btn btn-block btn-outline-primary btn-md"><a href="#">Comprar</a></button>
+									<button type="button" class="btn btn-block btn-info btn-md"><a href="#">Comprar</a></button>
 								</p>
 						</div>
 					</div>
@@ -61,7 +61,7 @@
 									<li class="mb-1">Cuates y Cuetes.</li>
 								</ol>
 								<p class="text-center">
-									<button type="button" class="btn btn-block btn-outline-primary btn-md"><a href="#">Comprar</a></button>
+									<button type="button" class="btn btn-block btn-info btn-md"><a href="#">Comprar</a></button>
 								</p>
 							</div>
 						</div>
@@ -86,7 +86,7 @@
 										<li class="mb-1">Aura.</li>
 									</ol>
 									<p class="text-center">
-										<button type="button" class="btn btn-block btn-outline-primary btn-md"><a href="#">Comprar</a></button>
+										<button type="button" class="btn btn-block btn-info btn-md"><a href="#">Comprar</a></button>
 									</p>
 								</div>
 							</div>
