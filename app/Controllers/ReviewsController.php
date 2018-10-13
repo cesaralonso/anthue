@@ -6,7 +6,7 @@ namespace MiWeb\Controllers;
 use \Psr\Http\Message\ServerRequestInterface as Request;
 use \Psr\Http\Message\ResponseInterface as Response;
 
-class DiscographyController extends BaseController
+class ReviewsController extends BaseController
 {
     /**
      * Usando inyección de dependencia se le pasa al constructor
@@ -38,6 +38,6 @@ class DiscographyController extends BaseController
         // disponible en la plantilla en el array $data.
         // $nombre = $args['nombre'] ?? 'mundo';
 
-        return $this->view->render('discography/index', []);
+        return $this->view->render('reviews/index', []);
     }
 }

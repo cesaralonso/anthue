@@ -29,7 +29,7 @@
 					<h3>Egresado de la escuela de música Instituto Cultural Cabañas</h3>
 					<div class="text-left">
 						<p>
-							Tomo los siguientes cursos musicales:
+							Tomó los siguientes cursos musicales:
 						</p>
 						<ul>
 							<li><b>Armonía moderna e improvisación:</b></li>

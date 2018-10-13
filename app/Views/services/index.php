@@ -3,155 +3,171 @@
 <!-- SERVICES
 	================================================== -->
 <section id="faq" class="section">
+<section id="about" class="parallax section" style="background-image: url(assets/images/fondop.jpeg);">
 <div class="wrapsection">
+	<div class="parallax-overlay" style="background-color: #028090;opacity:0.9;"></div>
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12 sol-sm-12">
+			<div class="col-md-12">
+				<!-- Title -->
 				<div class="maintitle">
-					<h3 class="section-title">¿Cuáles son <span class="wow bounceInRight">Nuestros Servicios?</span></h3>
+					<h3 class="section-title">
+						<strong>Nuestros Servicos</strong>
+					</h3>
 					<p class="lead">
-						We have studio, 1BR, 2BR, and 3BR suites, most with ocean view and the others with mountain views. All suites have a full kitchen, AC, cable TV, and free wireless internet. The large swimming pool, a poolside community bar and kitchen, and plenty of lounging areas make Suites Atlas a relaxing and fun home base.
+						Antonio Huerta Compositor, pianista, arreglista, productor y docente.
 					</p>
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-4 col-sm-12">
-				<div class="faq-block wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0s">
-					<div class="panel-group">
-						<div class="panel panel-default">
-							<div class="panel-heading">
+			<div class="col-md-4 col-sm-6">
+				<div class="service-box wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
+					<img src="assets/images/clasem.jpeg" alt="">
+					<h3> Cursos para principiantes y avanzados</h3>
+					<p class="lead">Nivel Básico, Medio y Avanzado</p>
+					<div class="text-left">
+						<p class="text-center">
+							<button type="button" class="btn btn-info btn-md"><a href="gallery">Galeria de cursos</a></button>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-6">
+				<div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
+					<!-- <span class="glyphicon glyphicon-usd"></span> -->
+						<h3>Cursos de armonía moderna</h3>
+						<p>
+							<strong>Plan de estudios nivel #1</strong><br>
+							Primer Semestre 
+						</p>
+						<ul>
+							<li>Conocimiento del cifrado.</li>
+							<li>Armaduras tratadas con sostenidos y bemosles.</li>
+							<li>Construcción de la escala mayor.</li>
+							<li>Formación de acordes de 3 a 8 notas y sus variantes.</li>
+						</ul>
+						<div class="panel-heading">
 								<h4 class="panel-title">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-								Lorem ipsum dolor sit. </a>
+								Plan de estudios completo</a>
 								</h4>
-							</div>
-							<div id="collapseOne" class="panel-collapse collapse">
-								<div class="panel-body">
-									 Nullam mollis ornare lacus non condimentum. Praesent metus ipsum, semper et mi a, consequat finibus felis. Aliquam egestas faucibus ante ac placerat.
-								</div>
-							</div>
 						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
+						<div id="collapseOne" class="panel-collapse collapse">
+							<div class="panel-body">
+								<p>
+									<strong>Plan de estudios nivel #2</strong><br>
+									Segundo Semestre
+								</p>
+								<ul>
+									<li>Formación del cuadro armónico de la escala mayor de manera visual.</li>
+								</ul> 
+								<p>
+									<strong>Plan de estudios nivel #3</strong> <br>
+									Tercer Semestre 
+								</p>
+								<ul>
+									<li>Desarrollo de las inversiones, permutación y voicings.</li>
+									<li>Elaboración de contrapunto actual.</li>
+									<li>Construcción del gran cuadro armónico de manera visual de la escala mayor y desglosar  sus 1,200 acordes que contiene dicha escala.</li>
+								</ul>
+							</div>
+							<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+								Ver menos</a>
+						</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-sm-6">
+				<div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
+					<!-- <span class="glyphicon glyphicon-usd"></span> -->
+						<h3>Curso De Improvisación</h3>
+						<p>
+							<strong>Plan de estudios nivel #1</strong><br>
+							Primer Semestre 
+						</p>
+						<ul>
+							<li>Construcción de la escala mayor y elaboracion su cuadro armónico de manera visual.</li>
+							<li>Construcción de la escala menor melodía y elaboracion de su cuadro armónico de manera visual. </li>
+							<li>Construcción de la escala menor armónica y elaboración de su cuadro armónico de manera visual. </li>
+						</ul>
+						<div class="panel-heading">
 								<h4 class="panel-title">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-								Maecenas convallis ipsum </a>
+								Plan de estudios completo</a>
 								</h4>
-							</div>
-							<div id="collapseTwo" class="panel-collapse collapse">
-								<div class="panel-body">
-									 Duis non luctus libero. Nulla laoreet nisl in velit imperdiet dignissim. Pellentesque a nibh ornare, tempor quam scelerisque, viverra leo.
-								</div>
-							</div>
 						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
+						<div id="collapseTwo" class="panel-collapse collapse">
+							<div class="panel-body">
+								<p>
+									<strong>Plan de estudios nivel #2</strong><br>
+									Segundo Semestre
+								</p>
+								<ul>
+									<li>Construcción de la escala pentatonica y  elaboración de su cuadro armónico de manera visual.</li>
+									<li>Construcción de la escala de blues y  elaboración de su cuadro armónico de manera visual. </li>
+									<li>Construcción de la escala de tonos completos y elaboración del cuadro armónico de manera visual. </li>
+								</ul> 
+								<p>
+									<strong>Plan de estudios nivel #3</strong> <br>
+									Tercer Semestre 
+								</p>
+								<ul>
+									<li>Construcción de la escala dominante de 8 notas y elaboración del cuadro armónico de manera visual.</li>
+									<li>Construcción de la escala disminuida de 8 notas y elaboración del cuadro armónico de manera visual.</li>
+									<li>Modos de la escala mayor y elaboración del cuadro armónico de manera visual.</li>
+								</ul>
+							</div>
+							<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+								Ver menos</a>
+						</div>
+				</div>
+			</div>
+			
+			<div class="col-md-4 col-sm-6">
+				<div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
+					<!-- <span class="glyphicon glyphicon-usd"></span> -->
+						<h3>Cursos de composición</h3>
+						<p>
+							<strong>Plan de estudios nivel #1</strong><br>
+							Primer Semestre 
+						</p>
+						<ul>
+							<li>Comprensión de las escalas y sus tonalidades.</li>
+							<li>Compresión de la armonía y sus escalas.</li>
+							<li>Creación y desarrollo de grooves (patrones rítmicos) y tiempo.</li>
+						</ul>
+						<div class="panel-heading">
 								<h4 class="panel-title">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-								Vestibulum tortor orci </a>
+								Plan de estudios completo</a>
 								</h4>
-							</div>
-							<div id="collapseThree" class="panel-collapse collapse">
-								<div class="panel-body">
-									 feugiat quis justo placerat, facilisis auctor magna. Aliquam vulputate eget erat eu suscipit.
-								</div>
-							</div>
 						</div>
-					</div>
+						<div id="collapseThree" class="panel-collapse collapse">
+							<div class="panel-body">
+								<p>
+									<strong>Plan de estudios nivel #2</strong><br>
+									Segundo Semestre
+								</p>
+								<ul>
+									<li>Desarrollo y creación de bloques armónicos.</li>
+									<li>Desarrollo y creación de la estructura del tema.</li>
+									<li>Desarrollo de la melodía. </li>
+								</ul> 
+								<p>
+									<strong>Plan de estudios nivel #3</strong> <br>
+									Tercer Semestre 
+								</p>
+								<ul>
+									<li>Contrapunto.</li>
+									<li>Desarrollo y aplicación del TRADE.</li>
+									<li>Desarrollo y aplicación del solfeo en la composición.</li>
+								</ul>
+							</div>
+							<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+								Ver menos</a>
+						</div>
 				</div>
 			</div>
-			<div class="col-md-4 col-sm-12">
-				<div class="faq-block wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.1s">
-					<div class="panel-group">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-								Vestibulum facilisis fringilla sapien </a>
-								</h4>
-							</div>
-							<div id="collapseFour" class="panel-collapse collapse">
-								<div class="panel-body">
-									 sit amet dictum mauris luctus condimentum. Suspendisse aliquet nec elit sit amet ullamcorper. Integer hendrerit porta congue. Vestibulum efficitur fermentum tincidunt. Morbi aliquet rutrum tempor.
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-								Curabitur tortor eros </a>
-								</h4>
-							</div>
-							<div id="collapseFive" class="panel-collapse collapse">
-								<div class="panel-body">
-									 fringilla ac eros et, mattis luctus augue. Vivamus tristique in tortor ut efficitur. In facilisis ligula quis justo semper commodo. Morbi commodo vel eros et egestas. Ut fringilla pellentesque magna sit amet viverra. Fusce quis est dolor.
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
-								Proin et tempus erat, vitae tempor leo </a>
-								</h4>
-							</div>
-							<div id="collapseSix" class="panel-collapse collapse">
-								<div class="panel-body">
-									 Ut varius mauris vel est condimentum maximus. Quisque maximus arcu eu lacus vestibulum luctus. Morbi interdum mollis enim, et hendrerit quam. Integer dignissim consequat euismod.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-12">
-				<div class="faq-block wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.2s">
-					<div class="panel-group">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
-								Mauris tempus mi rhoncus</a>
-								</h4>
-							</div>
-							<div id="collapseSeven" class="panel-collapse collapse">
-								<div class="panel-body">
-									 odio pharetra sollicitudin. Suspendisse quis nunc at est interdum vehicula. Nullam varius non diam ut luctus. Phasellus condimentum est non leo consectetur, eu viverra orci efficitur.
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
-								Cras nulla nisl, varius ut turpis ut</a>
-								</h4>
-							</div>
-							<div id="collapseEight" class="panel-collapse collapse">
-								<div class="panel-body">
-									 sollicitudin tristique ipsum. Nunc volutpat in nibh in rhoncus. Fusce sodales magna vitae cursus pretium. Aliquam porta sapien a turpis maximus, vitae bibendum orci consectetur. Nulla rhoncus ut tortor eu consectetur.
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
-								Suspendisse ut fermentum ipsum</a>
-								</h4>
-							</div>
-							<div id="collapseNine" class="panel-collapse collapse">
-								<div class="panel-body">
-									 Fusce et augue ut felis semper tempus. Cras a ligula lorem. Donec lacus augue, vestibulum imperdiet euismod eget, aliquam eu dui.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 	</div>
 </div>
+</section>
 </section>
