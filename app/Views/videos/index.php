@@ -13,44 +13,108 @@
 					</p>
 				</div>
 			</div>
-
-
-			<div class="col-md-6">
-			</div>
-			
 		</div>
 
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-md-6">
 				<div class="description">
-				<iframe width="100%" height="500" src="https://www.youtube.com/embed/HA8Xg_vIF7A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe width="100%" height="500" src="https://www.youtube.com/embed/HA8Xg_vIF7A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					<span class="caption">Antonio Huerta Navarro "Niño" <br>  <b>Compositor</b></span>
-					<!-- <span class="camera"><i class="fa fa-camera"></i></span> -->
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="description">
+					<iframe width="100%" height="500" src="https://www.youtube.com/embed/SaMgO5TPPD0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<span class="caption">
+						Antonio Huerta Navarro "Niño"
+						 <br>  
+						 <b>Tutorial de armonía #1 parte
+						 </b>
+						</span>
 					<div class="clearfix"></div>
 				</div>
 			</div>
 		</div>
+		<br>
+		<br>
+		<br>
 
 		<div class="row">
 		<br>
-			<div class="col-md-12">
+			<div class="col-md-6">
 				<div class="description">
 				<iframe width="100%" height="500" src="https://www.youtube.com/embed/lKLf_ZMZ_pw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					<span class="caption">Entrevista de Proyecto Tacos en Radio UNAM <br>  <b>Parte 1</b></span>
-					<!-- <span class="camera"><i class="fa fa-camera"></i></span> -->
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="description">
+					<iframe width="100%" height="500" src="https://www.youtube.com/embed/YWynfuhihe4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<span class="caption">Agavezzound <br>  <b>House Huahuanco</b></span>
 					<div class="clearfix"></div>
 				</div>
 			</div>
 		</div>
 
+		<br>
+		<br>
+		<br>
 		<div class="row">
-			<br>
-			<div class="col-md-12">
+			<div class="col-md-6">
 				<div class="description">
-				<iframe width="100%" height="500" src="https://www.youtube.com/embed/YWynfuhihe4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-				<span class="caption">Agavezzound <br>  <b>House Huahuanco</b></span>
-				<!-- <span class="camera"><i class="fa fa-camera"></i></span> -->
-				<div class="clearfix"></div>
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/TPj5jShICew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+						<span class="caption">Tutorial de armonía # 4 <br>  <b>Antonio Huerta Navarro el Niño.</b></span>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+
+			<div class="col-md-6">
+				<div class="description">
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/zXm9V1uVvTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<span class="caption">Tutorial de armonía # 8 <br>  <b>Antonio Huerta Navarro el Niño.</b></span>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<br>
+		<br>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="description">
+					<iframe width="100%" height="500" src="https://www.youtube.com/embed/gfKyYvk9ZHU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<span class="caption">Transcribiendo la partitura para congas<br>  <b>Composición: Azul marino.</b></span>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+
+			<div class="col-md-6">
+				<div class="description">
+					<iframe width="100%" height="500" src="https://www.youtube.com/embed/4f1VrzroB0s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<span class="caption">Tutorial de armonía #14 <br>  <b>Antonio Huerta Navarro el Niño.</b></span>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<br>
+		<br>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="description">
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/WvzJPc-zfIM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<span class="caption">Agavezzound<br>  <b>Yutzil Magda y Antonio Huerta Navarro</b></span>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+
+			<div class="col-md-6">
+				<div class="description">
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/y31yfLUkv3I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<span class="caption">Impartiendo clases de música <br>  <b>Instrumentos prehispánicos.</b></span>
+					<div class="clearfix"></div>
 				</div>
 			</div>
 		</div>
