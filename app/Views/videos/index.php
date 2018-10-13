@@ -21,8 +21,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-2"></div>
-			<div class="col-md-8">
+			<div class="col-md-12">
 				<div class="description">
 				<iframe width="100%" height="500" src="https://www.youtube.com/embed/HA8Xg_vIF7A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					<span class="caption">Antonio Huerta Navarro "Niño" <br>  <b>Compositor</b></span>
@@ -30,7 +29,6 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<div class="col-md-2"></div>
 		</div>
 
 		<div class="row">
