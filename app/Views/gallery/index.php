@@ -16,7 +16,26 @@
 				</div>
 			</div>
 
-			<div class="col-md-4">
+				<?php 
+					$total_imagenes =glob('assets/images/gallery/{*.jpeg,*.jpg,*.gif,*.png}',GLOB_BRACE);
+					foreach($total_imagenes as $v){
+						// echo "'.$v.' \n";
+						echo '
+								<div class="col-md-4">
+									<a href="'.$v.'" title="">
+										<img height="5px" src="'.$v.'" alt="" class="image-responsive">
+										<div class="description">
+											<span class="caption">Master Suite  <b>Mountain View</b></span>
+											<span class="camera"><i class="fa fa-camera"></i></span>
+											<div class="clearfix"></div>
+										</div>
+									</a>
+								</div>
+							';
+					}
+					
+				?>
+			<!-- <div class="col-md-4">
 				<a href="assets/images/clases/1.jpeg" title="This is the description">
 					<img src="assets/images/clases/1.jpeg" alt="" class="image-responsive">
 					<div class="description">
@@ -27,8 +46,8 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="assets/images/clases/1.jpeg" title="This is the description">
-				<img src="assets/images/clases/1.jpeg" alt="" class="image-responsive">
+				<a href="assets/images/clases/2.jpeg" title="This is the description">
+				<img src="assets/images/clases/2.jpeg" alt="" class="image-responsive">
 					<div class="description">
 						<span class="caption">Master Suite <b>Ocean Front</b></span>
 						<span class="camera"><i class="fa fa-camera"></i></span>
@@ -37,8 +56,8 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="assets/images/clases/1.jpeg" title="This is the description">
-				<img src="assets/images/clases/1.jpeg" alt="" class="image-responsive">
+				<a href="assets/images/clases/3.jpeg" title="This is the description">
+				<img src="assets/images/clases/3.jpeg" alt="" class="image-responsive">
 					<div class="description">
 						<span class="caption">Suite <b>Mountain View</b></span>
 						<span class="camera"><i class="fa fa-camera"></i></span>
@@ -47,8 +66,8 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="assets/images/clases/1.jpeg" title="This is the description">
-				<img src="assets/images/clases/1.jpeg" alt="" class="image-responsive">
+				<a href="assets/images/clases/4.jpeg" title="This is the description">
+				<img src="assets/images/clases/4.jpeg" alt="" class="image-responsive">
 					<div class="description">
 						<span class="caption">Suite  <b>Ocean View</b></span>
 						<span class="camera"><i class="fa fa-camera"></i></span>
@@ -67,15 +86,15 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="assets/images/clases/1.jpeg" title="This is the description">
-				<img src="assets/images/clases/1.jpeg" alt="" class="image-responsive">
+				<a href="assets/images/clases/5.jpeg" title="This is the description">
+				<img src="assets/images/clases/5.jpeg" alt="" class="image-responsive">
 					<div class="description">
 						<span class="caption">Master Suite <b>Ocean View</b></span>
 						<span class="camera"><i class="fa fa-camera"></i></span>
 						<div class="clearfix"></div>
 					</div>
 				</a>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>
