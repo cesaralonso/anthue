@@ -13,3 +13,4 @@ $app->get('/services', '\MiWeb\Controllers\ServicesController:index');
 $app->get('/discography', '\MiWeb\Controllers\DiscographyController:index');
 $app->get('/reviews', '\MiWeb\Controllers\ReviewsController:index');
 $app->get('/videos', '\MiWeb\Controllers\VideosController:index');
+$app->get('/courses', '\MiWeb\Controllers\CoursesController:index');
