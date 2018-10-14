@@ -91,6 +91,10 @@
 								</p>
 								<p class="text-justify">
 									Bitácora de un viaje: anotación de los ritmos de las sorpresas, de las formas sonoras de los descubrimientos. 
+									<br>
+								</p>
+								<p>
+									<strong style="text-align: center;">Sin agave no hay tequila.</strong>
 								</p>
 								<a data-toggle="collapse" data-parent="#hector" href="#hector">Ver menos</a>
 							</div>
@@ -113,6 +117,7 @@
 							Producción discográfica: <strong>El canto de la mar. </strong><br>
 						</p>
 						<p class="text-justify">
+							<strong>Agavezzound</strong><br>
 							Esta reciente producción creativa de 13 sendas composiciones liderada por Antonio Huerta  ( El niño) y un grupo de músicos y técnicos profesionales, 
 							es una grata experiencia que puede satisfacer a expertos conocedores, amantes y prácticantes de la música. 
 						</p>
