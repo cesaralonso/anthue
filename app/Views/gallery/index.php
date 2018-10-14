@@ -9,7 +9,8 @@
 		<div class="row">
 			<div class="col-md-12 sol-sm-12">
 				<div class="maintitle">
-					<h3 class="section-title">Galeria de nuestros cursos</h3>
+					<h3 class="section-title">Galeria Antonio Huerta</h3>
+					<br>
 					<!-- <p class="lead wow flipInX">
 						Contamos con cómodas suites de 1, 2, 3 y 4 recámaras, además de lindos estudios.
 					</p> -->
