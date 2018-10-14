@@ -60,7 +60,7 @@
             <a href="discography">DISCOGRAPHY</a>
           </li>
           <li>
-            <a href="">ABOUT ME</a>
+            <a href="about">ABOUT ME</a>
           </li>
           <li>
             <a href="reviews">REVIEWS</a>
@@ -72,8 +72,11 @@
             <a href="">CONTACT</a>
           </li>
           <li>
-            <a href="#hero">INGLES</a>
+            <a href="courses">COURSES</a>
           </li>
+          <!-- <li>
+            <a href="#hero">INGLES</a>
+          </li> -->
         </ul>
         </nav>
       </div>
