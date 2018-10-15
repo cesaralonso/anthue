@@ -19,14 +19,16 @@
 
 				<?php 
 					$total_imagenes =glob('assets/images/gallery/{*.jpeg,*.jpg,*.gif,*.png}',GLOB_BRACE);
+					$cont = 0;
 					foreach($total_imagenes as $v){
+						$cont++;
 						// echo "'.$v.' \n";
 						echo '
 								<div class="col-md-4">
 									<a href="'.$v.'" title="">
-										<img height="5px" src="'.$v.'" alt="" class="image-responsive">
+										<img height="5px" src="'.$v.'" alt="" class="image-responsive" style="height:350px;">
 										<div class="description">
-											<span class="caption">Master Suite  <b>Mountain View</b></span>
+											<span class="caption">Foto # <b>'.$cont.'</b></span>
 											<span class="camera"><i class="fa fa-camera"></i></span>
 											<div class="clearfix"></div>
 										</div>
