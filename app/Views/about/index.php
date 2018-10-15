@@ -19,11 +19,12 @@
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="service-box wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
-					<img src="assets/images/suite10.jpg" alt="">
 					<h3>Welcome to Suites Atlas</h3>
-					<div class="text-left">
+					<!-- <div class="text-left">
+						
+					
 						<p>
-							Every suite at Suites Atlas has a full kitchen and bathroom, AC, cable TV, and free wireless internet. Other amenities include:
+							Every l;kl;ksuite at Suites Atlas has a full kitchen and bathroom, AC, cable TV, and free wireless internet. Other amenities include:
 						</p>
 						<ul>
 							<li>Large swimming pool</li>
@@ -38,7 +39,8 @@
 						<p class="text-center">
 							<button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
 						</p>
-					</div>
+					</div> -->
+					
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6">
