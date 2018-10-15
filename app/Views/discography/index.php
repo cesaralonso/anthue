@@ -1,5 +1,5 @@
 
-<?php $this->layout('master', ['title' => 'Discography', 'main' => false, 'description' => 'Suites Atlas is a popular condo community on one of the best stretches of beach between Puerto Vallarta and Sayulita, Mexico.']) ?>
+<?php $this->layout('master', ['title' => 'Discografía', 'main' => false, 'description' => 'Escúchanos desde la comodidad de tu hogar.']) ?>
 
 <!-- Discography
 	================================================== -->

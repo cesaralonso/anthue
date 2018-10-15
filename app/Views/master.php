@@ -12,7 +12,6 @@
     <link rel='stylesheet' href='assets/css/animate.min.css'>
     <link rel='stylesheet' href="assets/css/font-awesome.min.css"/>
     <link rel='stylesheet' href="assets/css/style.css"/>
-
     <!-- Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>
 
@@ -46,22 +45,22 @@
                 <a class="nav-link" href="index.php">HOME</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="gallery">GALLERY</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="">SERVICES</a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link" href="discography">DISCOGRAPHY</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="lessons">LESSONS</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="about">ABOUT ME</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="">CONTACT</a>
+                <a class="nav-link" href="gallery">GALLERY</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link pl-0" href="#hero">INGLES</a>
+                <a class="nav-link" href="videos">VIDEOS</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link " href="contact">CONTACT</a>
               </li>
             </ul>
         </nav>
@@ -117,7 +116,7 @@
       <a href="#"><i class="fa fa-twitter"></i></a>
       <a href="#"><i class="fa fa-skype"></i></a>
       <a href="#"><i class="fa fa-linkedin"></i></a>
-      <a href="#"><i class="fa fa-pinterest"></i></a>
+      <a href="#"><i class="fa fa-youtube"></i></a>
       <a href="#"><i class="fa fa-google-plus"></i></a>
       </span><br/>
 
@@ -141,5 +140,6 @@
     <script src="assets/js/validate.js"></script>
     <script src="assets/js/common.js"></script>
   </body>
+
 
 </html>
