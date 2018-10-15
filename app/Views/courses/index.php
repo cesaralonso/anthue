@@ -20,7 +20,7 @@
 				</div>
 			</div>
 			
-			<h1 style="text-align:center;" class="maintitle">Cursos de armonía moderna</h1>  
+			<h1 style="text-align:center;" class="maintitle wow zoomIn">Cursos de armonía moderna</h1>  
 			<br><br>
 			<div class="col-md-4 col-sm-6">
 				<h2 style="text-align:center;" class="wow zoomIn">Plan de estudios nivel #1</h2>
@@ -101,7 +101,7 @@
 				</div>
 			<br><br><br>
 			</div>
-			<h1 style="text-align:center;" class="maintitle">Cursos de Improvisación</h1>  
+			<h1 style="text-align:center;" class="maintitle wow flipInY">Cursos de Improvisación</h1>  
 			<br><br>
 			<div class="col-md-4 col-sm-6">
 				<h2 style="text-align:center;" class="wow flipInY">Plan de estudios nivel #1</h2>
@@ -226,7 +226,7 @@
 							<li>Desarrollo y aplicación del TRADE.</li>
 							<li>Desarrollo y aplicación del solfeo en la composición.</li>
 						</ul>
-						<br>
+						<br><br>
 					</div>
 					<!-- <p>
 						Nullam posuere, libero id interdum hendrerit, tortor nisl consectetur elit.
