@@ -10,7 +10,7 @@
 				<div class="col-md-12">
 					<!-- Title -->
 					<div class="maintitle">
-						<h3 class="section-title"><strong>Popular condo community <span class="lighter">between </span></strong>Puerto Vallarta and Sayulita, Mexico.</h3>
+						<h3 class="section-title"><strong>Antonio Huerta Navarro  <span class="lighter">"El Niño"" </span></strong>, Mexico.</h3>
 						<p class="lead">
 							Antonio Huerta Navarro El Niño Músico, compositor, productor, director musical, docente y pianista.
 						</p>
@@ -19,24 +19,34 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
-					<!--<div class="service-box wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">-->
-					<div class=" wow zoomIn mb-3" data-wow-duration="1.5s" data-wow-delay="0.1s">
+					<div class="service-box wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
 						<img src="../assets/images/imagen-antonio.jpg">
 					</div>
 					<div class="clearfix"></div>
 				</div>
-				<!--</div>-->
 				<div class="col-md-6 col-sm-6">
 					<div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
 						<span class="glyphicon glyphicon-stats"></span>
-						<h3 style="font-family:'Rozha One' ">Biografía</h3>
-						<p style="line-height: 1.5em; font-family: 'Roboto'" class="text-justify">
+						<h3 >Biografía</h3>
+						<p  class="text-justify">
 							Siendo muy pequeño aún, a los siete meses de edad ya tomaba las baquetas para tocar la marimba de su padre. Originario de
 							Guadalajara, apenas estudio la primaria por que la inquietud por la música siempre mantuvo su mente ocupada en seguir
 							caminos artísticos. Antonio Huerta Navarro " el Niño " Director musical, maestro de composición, armonía, improvisación,
 							piano y solfeo. 36 años de trayectoria. Actualmente director musical del grupo Agavezzound. Cuenta con 3 producciones
 							discográficas en las que participó como director musical, productor, compositor, arreglista y pianista. Proyecto Tacos:
 							Drum and bass, sabór a trópico. Agavezzound: Agavezzound volumen 1.
+						</p>
+					</div>
+				</div>
+			</div>
+			<br><br><br>
+			<div class="row">
+				<div class="col-md-12">
+					<!-- Title -->
+					<div class="maintitle">
+						<h3 class="section-title"><strong>Reconocimientos.</strong></h3>
+						<p class="lead">
+							Algunos reconocimientos obtenidos.
 						</p>
 					</div>
 				</div>

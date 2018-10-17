@@ -51,37 +51,28 @@
         <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
           <ul class="nav navbar-nav">
             <li>
-              <a href="index.php">HOME</a>
+              <a href="about">Acerca de mi</a>
             </li>
             <li>
-              <a href="gallery">GALLERY</a>
+              <a href="services">Servicios</a>
             </li>
             <li>
-              <a href="services">SERVICES</a>
+              <a href="discography">Discografía</a>
             </li>
             <li>
-              <a href="discography">DISCOGRAPHY</a>
+              <a href="reviews">Reseñas</a>
             </li>
             <li>
-              <a href="">ABOUT ME</a>
+              <a href="videos">Videos</a>
             </li>
             <li>
-              <a href="reviews">REVIEWS</a>
+              <a href="courses">Cursos</a>
             </li>
             <li>
-              <a href="videos">VIDEOS</a>
+              <a href="gallery">Galeria</a>
             </li>
             <li>
-              <a href="">CONTACT</a>
-            </li>
-            <li>
-              <a href="#hero">INGLES</a>
-            </li>
-            <li>
-              <a href="courses">COURSES</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="lessons">LESSONS</a>
+              <a href="contact">Contáctame</a>
             </li>
           </ul>
         </nav>

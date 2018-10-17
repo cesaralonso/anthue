@@ -11,7 +11,7 @@
 					<h3 class="section-title"><strong>Antonio Huerta Navarro.</strong></h3>
 					<p class="lead">
 						Preguntas? Comentarios?<br>
-						No dude en enviarnos un mensaje y nos pondremos en contacto con usted lo antes posible.
+						No dudes en enviarme un mensaje y me pondré en contacto con usted lo antes posible.
 					</p>
 				</div>
 				<form id="contact" name="contact" method="post" class="text-left">

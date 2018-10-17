@@ -135,43 +135,28 @@
 					</div>
 				</div>
 			</div>
-
-
-
-			<div class="row justify-content-center">
-				<div class="col-lg-10 col-md-10 col mb-5">
-					<div class="faq-block wow bounceInDown embed-responsive embed-responsive-16by9">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/YWynfuhihe4?rel=0" frameborder="0" allow="autoplay; encrypted-media"
-							allowfullscreen></iframe>
-					</div>
-				</div>
-			</div>
+			<br>
+			<br>
+			<br>
 			<div class="row">
-				<div class="col-md-4 col-sm-12">
-					<div class="faq-block wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0s">
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/HZ1I5R8rA3g?rel=0" frameborder="0" allow="autoplay; encrypted-media"
-								allowfullscreen></iframe>
-						</div>
+				<div class="col-md-6">
+					<div class="description">
+						<iframe width="100%" height="500" src="https://www.youtube.com/embed/HZ1I5R8rA3g?rel=0" frameborder="0" allow="autoplay; encrypted-media"
+						    allowfullscreen></iframe>
+						<span class="caption">Proyecto Tacos en vivo.</span>
+						<div class="clearfix"></div>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-12">
-					<div class="faq-block wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0s">
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/HA8Xg_vIF7A?rel=0" frameborder="0" allow="autoplay; encrypted-media"
-								allowfullscreen></iframe>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-12">
-					<div class="faq-block wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.2s">
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/wpifopo0ae4?rel=0" frameborder="0" allow="autoplay; encrypted-media"
-								allowfullscreen></iframe>
-						</div>
+				<div class="col-md-6">
+					<div class="description">
+						<iframe width="100%" height="500" src="https://www.youtube.com/embed/wpifopo0ae4?rel=0" frameborder="0" allow="autoplay; encrypted-media"
+						    allowfullscreen></iframe>
+						<span class="caption">Agavezzound | Jazz n' Paz.</span>
+						<div class="clearfix"></div>
 					</div>
 				</div>
 			</div>
+
 		</div>
 	</div>
 </section>

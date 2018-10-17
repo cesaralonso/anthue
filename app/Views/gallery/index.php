@@ -4,7 +4,6 @@
 	================================================== -->
 <section id="gallery" class="parallax section" style="background-image: url(assets/images/piano1.jpg);">
 
-
 <div class="wrapsection">
 	<div class="parallax-overlay" style="background-color:#00c1c1;opacity:0.9;"></div>
 	<div class="container">
@@ -23,7 +22,7 @@
 					$cont = 0;
 					foreach($total_imagenes as $v){
 						$cont++;
-						// echo "'.$v.' \n";
+						
 						echo '
 								<div class="col-md-4">
 									<a href="'.$v.'" title="">
