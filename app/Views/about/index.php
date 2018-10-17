@@ -16,8 +16,6 @@
 						</p>
 					</div>
 				</div>
-
-
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
@@ -39,8 +37,6 @@
 							piano y solfeo. 36 años de trayectoria. Actualmente director musical del grupo Agavezzound. Cuenta con 3 producciones
 							discográficas en las que participó como director musical, productor, compositor, arreglista y pianista. Proyecto Tacos:
 							Drum and bass, sabór a trópico. Agavezzound: Agavezzound volumen 1.
-
-
 						</p>
 					</div>
 				</div>
@@ -53,6 +49,7 @@
 						<h3>Reconocimiento</h3>
 						<p>
 							Nullam posuere.
+
 						</p>
 						<button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
 					</div>
@@ -65,8 +62,10 @@
 						<p>
 							Nullam posuere.
 						</p>
+
 						<button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
 					</div>
+
 				</div>
 				<div class="col-lg-4 col-sm-6">
 					<div class="service-box  wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.4s">
@@ -111,9 +110,6 @@
 						</p>
 						<button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
 					</div>
-
-
-
 				</div>
 			</div>
 		</div>

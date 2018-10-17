@@ -48,7 +48,6 @@
         </div>
         <!-- Start Navigation -->
 
-
         <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
           <ul class="nav navbar-nav">
             <li>
@@ -78,13 +77,13 @@
             <li>
               <a href="#hero">INGLES</a>
             </li>
-
+            <li>
+              <a href="courses">COURSES</a>
+            </li>
             <li class="nav-item">
               <a class="nav-link" href="lessons">LESSONS</a>
             </li>
-
           </ul>
-
         </nav>
       </div>
     </header>

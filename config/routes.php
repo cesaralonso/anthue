@@ -17,3 +17,4 @@ $app->get('/reservations', '\MiWeb\Controllers\ReservationsController:index');
 $app->get('/services', '\MiWeb\Controllers\ServicesController:index');
 $app->get('/reviews', '\MiWeb\Controllers\ReviewsController:index');
 $app->get('/videos', '\MiWeb\Controllers\VideosController:index');
+$app->get('/courses', '\MiWeb\Controllers\CoursesController:index');
