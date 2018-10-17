@@ -1,12 +1,12 @@
 <?php
-// File: /app/Controllers/ServicesController.php
+// File: /app/Controllers/AboutController.php
 
 namespace MiWeb\Controllers;
 
 use \Psr\Http\Message\ServerRequestInterface as Request;
 use \Psr\Http\Message\ResponseInterface as Response;
 
-class ServicesController extends BaseController
+class LessonsController extends BaseController
 {
     /**
      * Usando inyección de dependencia se le pasa al constructor
@@ -38,6 +38,6 @@ class ServicesController extends BaseController
         // disponible en la plantilla en el array $data.
         // $nombre = $args['nombre'] ?? 'mundo';
 
-        return $this->view->render('services/index', []);
+        return $this->view->render('lessons/index', []);
     }
 }
