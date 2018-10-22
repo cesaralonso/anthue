@@ -18,6 +18,7 @@
 						</p>
 					</div>
 				</div>
+
 				<div class="col-md-4 col-sm-6">
 					<div class="service-box wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
 						<img src="assets/images/clasem.jpeg" alt="">
@@ -30,6 +31,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="col-md-4 col-sm-6">
 					<div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
 						<!-- <span class="glyphicon glyphicon-usd"></span> -->
@@ -65,6 +67,49 @@
 									<li>Elaboración de contrapunto actual.</li>
 									<li>Construcción del gran cuadro armónico de manera visual de la escala mayor y desglosar sus 1,200 acordes que contiene
 										dicha escala.</li>
+								</ul>
+							</div>
+							<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+							Ver menos</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-6">
+					<div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
+						<!-- <span class="glyphicon glyphicon-usd"></span> -->
+						<h3>Cursos de composición</h3>
+						<p>
+							<strong>Plan de estudios nivel #1</strong><br> Primer Semestre
+						</p>
+						<ul>
+							<li>Comprensión de las escalas y sus tonalidades.</li>
+							<li>Compresión de la armonía y sus escalas.</li>
+							<li>Creación y desarrollo de grooves (patrones rítmicos) y tiempo.</li>
+						</ul>
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+							Plan de estudios completo</a>
+							</h4>
+						</div>
+						<div id="collapseThree" class="panel-collapse collapse">
+							<div class="panel-body">
+								<p>
+									<strong>Plan de estudios nivel #2</strong><br> Segundo Semestre
+								</p>
+								<ul>
+									<li>Desarrollo y creación de bloques armónicos.</li>
+									<li>Desarrollo y creación de la estructura del tema.</li>
+									<li>Desarrollo de la melodía. </li>
+								</ul>
+								<p>
+									<strong>Plan de estudios nivel #3</strong> <br> Tercer Semestre
+								</p>
+								<ul>
+									<li>Contrapunto.</li>
+									<li>Desarrollo y aplicación del TRADE.</li>
+									<li>Desarrollo y aplicación del solfeo en la composición.</li>
 								</ul>
 							</div>
 							<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
@@ -116,50 +161,10 @@
 					</div>
 				</div>
 
-				<div class="col-md-4 col-sm-6">
-					<div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
-						<!-- <span class="glyphicon glyphicon-usd"></span> -->
-						<h3>Cursos de composición</h3>
-						<p>
-							<strong>Plan de estudios nivel #1</strong><br> Primer Semestre
-						</p>
-						<ul>
-							<li>Comprensión de las escalas y sus tonalidades.</li>
-							<li>Compresión de la armonía y sus escalas.</li>
-							<li>Creación y desarrollo de grooves (patrones rítmicos) y tiempo.</li>
-						</ul>
-						<div class="panel-heading">
-							<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-							Plan de estudios completo</a>
-							</h4>
-						</div>
-						<div id="collapseThree" class="panel-collapse collapse">
-							<div class="panel-body">
-								<p>
-									<strong>Plan de estudios nivel #2</strong><br> Segundo Semestre
-								</p>
-								<ul>
-									<li>Desarrollo y creación de bloques armónicos.</li>
-									<li>Desarrollo y creación de la estructura del tema.</li>
-									<li>Desarrollo de la melodía. </li>
-								</ul>
-								<p>
-									<strong>Plan de estudios nivel #3</strong> <br> Tercer Semestre
-								</p>
-								<ul>
-									<li>Contrapunto.</li>
-									<li>Desarrollo y aplicación del TRADE.</li>
-									<li>Desarrollo y aplicación del solfeo en la composición.</li>
-								</ul>
-							</div>
-							<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-							Ver menos</a>
-						</div>
-					</div>
-				</div>
+
+
 			</div>
 		</div>
-		
+
 	</div>
 </section>

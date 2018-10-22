@@ -17,12 +17,12 @@
 					</div>
 				</div>
 
-				<?php 
+				<?php
 					$total_imagenes =glob('assets/images/gallery/{*.jpeg,*.jpg,*.gif,*.png}',GLOB_BRACE);
 					$cont = 0;
 					foreach($total_imagenes as $v){
 						$cont++;
-						
+
 						echo '
 								<div class="col-md-4">
 									<a href="'.$v.'" title="">
@@ -36,13 +36,13 @@
 								</div>
 							';
 					}
-					
+
 				?>
-				
+
 			</div>
 		</div>
 
-		<div class="row">
+		<!--<div class="row">
 			<div class="col">
 				<div class="card-columns">
 					<div class="card wow fadeIn animated" data-wow-delay="0.3" data-wow-duration="1.5s" style="border-radius: 0px !important;">
@@ -157,7 +157,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 
 	</div>
 </div>
