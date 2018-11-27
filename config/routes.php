@@ -5,6 +5,7 @@ $app->get('/', '\MiWeb\Controllers\HomeController:index');
 $app->get('/about', '\MiWeb\Controllers\AboutController:index');
 
 $app->get('/discography', '\MiWeb\Controllers\DiscographyController:index');
+$app->get('/newcd', '\MiWeb\Controllers\NewcdController:index');
 $app->get('/lessons', '\MiWeb\Controllers\LessonsController:index');
 
 $app->get('/contact', '\MiWeb\Controllers\ContactController:index');

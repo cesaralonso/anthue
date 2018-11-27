@@ -153,15 +153,14 @@
 				<a href="assets/images/agave1.jpg" title="This is the description">
 				<img src="assets/images/agave1.jpg" alt="" class="image-responsive">
 					<div class="description">
-						<span class="caption">Antonio Huerta " El Niño " <br><b>El canto de la mar</b></span>
+						<span class="caption">Antonio Huerta " El Niño " <span class="badge badge-pill badge-info">NUEVO</span> <br><b> El canto de la mar</b></span>
 						<span class="camera"><i class="fa fa-usd"></i></span>
 						<div class="clearfix"></div>
 					</div>
 				</a>
 				<span class="text-center">
-					<a href="#gallery" class="btn btn-default btn-sm wow fadeInLeft " role="button">COMPRAR</a>
-				</span>
-				
+					<a href="newcd" class="btn btn-default btn-sm wow fadeInLeft " >Comprar</a>
+				</span>	
 			</div>
 		</div>
 	</div>

@@ -18,13 +18,13 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6 col-sm-6">
+				<div class="col-sm-6">
 					<div class="service-box wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
 						<img src="../assets/images/imagen-antonio.jpg">
 					</div>
 					<div class="clearfix"></div>
 				</div>
-				<div class="col-md-6 col-sm-6">
+				<div class="col-sm-6">
 					<div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
 						<span class="glyphicon glyphicon-stats"></span>
 						<h3 >Biografía</h3>

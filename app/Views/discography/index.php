@@ -2,7 +2,7 @@
 
 <!-- Discography
 	================================================== -->
-<section id="discography" class="parallax section" style="background-image: url(assets/images/piano1.jpg);">
+<section id="gallery" class="parallax section" style="background-image: url(assets/images/piano1.jpg);">
 
 <div class="wrapsection">
 	<div class="parallax-overlay" style="background-color:#05668D; opacity:0.9;"></div>
