@@ -17,7 +17,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row" style="margin-bottom: 4rem;">
+		<div class="row" style="margin-bottom: 4rem;"> <!--Presentacion de Disco-->
 			<div class="col-md-3 service-box">
 			<span class="glyphicon glyphicon-cd"></span>
 			<h2 class="title">Aspectos Musicales.</h2>
@@ -48,7 +48,8 @@
 					</ol>
 			</div>
 		</div>
-		<div class="row">
+
+		<div class="row" style="margin-bottom: 4rem;"> <!--Agradecimientos a artistas-->
 			<div class="col">
 				<div class="maintitle">
 					<h3 class="section-title">Colaboraciones especiales </h3>
@@ -103,6 +104,59 @@
 				</div>
 			</div>
 		</div>
-	
-</div>
+
+		<div class="row service-box" style="margin-bottom: 4rem;" > <!--Estudio de Grabacion-->
+			<div class="col-md-7">
+					<h2>Estudio de Grabacion</h2>
+					<p class="text-justify">
+						ESTUDIO TIERRA es un estudio creado para Musicos, Productores Musicales, Tecnicos e Ingenieros de sonido que buscan desarrollar sus proyectos con una Excelente Calidad.
+						Sin duda el acabado de una buena grabación debe ser acompañado de un buen proceso de mezcla y masterización, en nuestra nueva sala, contamos con la tecnología para dar a tus mezclas la calidad y profundidad sonora que solo nuestros Ingenieros y equipos te pueden brindar.
+						Nuestra nueva sala de mezcla cuenta con Summing SSL X-desk, 8 EQ SSL, 8 Compresores SSL, Protools Native 1 I/F 192, 1 OMNI, mas nuestra cadena Mastering MANLEY (EQ 4 bandas Massive Passive, Compresor estéreo Variable MU, y limitador SLAM Mastering versión)
+					</p>
+					<p class="text-center">
+						<button type="button" class="btn btn-info btn-md"><a href="#">Conocer más</a></button>
+					</p>	
+			</div>
+			<div class="col-md-5">
+				<img src="http://static.wixstatic.com/media/41224a_35ff8fd49bce481baa3665d3cb5f4d8a~mv2.jpg/v1/fill/w_930,h_475,al_c,q_85,usm_0.66_1.00_0.01/41224a_35ff8fd49bce481baa3665d3cb5f4d8a~mv2.webp" class="image-fluid" alt="Imagen Estudio de Grabación.">	
+				<p class="">Purísima 254, Barrio Bellavista - Santiago | Fono +56994490795 (Whatsapp)</p>
+			</div>
+		</div>
+		
+		<div class="row "> <!--Agradecimientos a fotografos-->
+				<div class="col-md-12"  >
+					<div id="Carousel" class="carousel slide">
+						<ol class="carousel-indicators">
+							<li data-target="#Carousel" data-slide-to="0" class="active"></li>
+							<li data-target="#Carousel" data-slide-to="1"></li>
+						</ol>
+						<div class="carousel-inner">
+							<div class="item active">
+								<blockquote>
+									<p class="lead">
+										Gracias a mi amigo y fotógrafo <strong>"Rolando López"</strong> por ser parte de este gran equipo, gracias Rolando por estar atento y capturar con tu cámara el proceso de grabación <strong>¡</strong> mil gracias <strong>!</strong>
+									</p>
+									<small>Antonio Huerta Navarro</small>
+								</blockquote>
+							</div>
+							<div class="item">
+								<blockquote>
+									<p class="lead">
+										Gracias amigo <strong>José Luis Rosales"</strong> por contribuir con tu cámara y sensibilidad, siempre atento a cada detalle del proceso creativo de la grabación, <strong>¡</strong> mil gracias <strong>!</strong>
+									</p>
+									<small>Antonio Huerta Navarro</small>
+								</blockquote>
+							</div>
+						</div>
+						<a class="left carousel-control" href="#Carousel" data-slide="prev">
+						<span class="glyphicon glyphicon-chevron-left"></span>
+						</a>
+						<a class="right carousel-control" href="#Carousel" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-right"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+
+		</div>
 </section
